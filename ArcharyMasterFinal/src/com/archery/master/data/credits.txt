@@ -1,0 +1,13 @@
+Developed By,
+Koushik Sarker Seemanto (2016831024).
+&
+Abul Hasan Shajli (2016831008).
+
+Project Information
+
+Game Name: Archery Master
+Type: Projectile Shooting Game.
+
+
+
+
